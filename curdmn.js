@@ -1,2 +1,2 @@
-var tn_curdmn = "87u4wcyry6ew";
+var tn_curdmn = "q77eibq6g3du";
 var tn_type = "zr"; // zr, lc
